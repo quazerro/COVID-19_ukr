@@ -3,8 +3,6 @@
 
 **Увага:** із 9 квітня дані агрегуються НСЗУ, раніше це робили в ОП. Структура даних не зазнала принципових змін (були видалені стовпці, що містили неактуальні дані - див. опис), проте змінилися назви стовпців. НСЗУ щодня оновлює датасет за цим посиланням: https://raw.githubusercontent.com/VasiaPiven/covid19_ua/master/dataset.csv
 
-**У новіших версіях файлів присутній розширений перелік полів (докладніше в описі структури)**
-
 **Офіційне визначення випадку захворювання:** https://moz.gov.ua/uploads/3/19507-dn_20200313_663_dod2covid19.pdf
 
 **Більше інформації щодо заходів протидії поширенню COVID-19:** https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-13032020--663-pro-optimizaciju-zahodiv-schodo-nedopuschennja-zanesennja-i-poshirennja-na-teritorii-ukraini-vipadkiv-covid-19
